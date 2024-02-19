@@ -1,3 +1,7 @@
+/*Nama File : Main.java*/
+/*Nama/NIM : Tiara Putri Wibowo - 24060122120026*/
+/*Tanggal : 19 Februari 2024*/
+
 public class Main {
     static double counter;
     public static void main(String args[]){
