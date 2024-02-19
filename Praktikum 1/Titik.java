@@ -1,3 +1,7 @@
+/*Nama File : Titik.java*/
+/*Nama/NIM : Tiara Putri Wibowo - 24060122120026*/
+/*Tanggal : 19 Februari 2024*/
+
 class Titik {
     double absis, ordinat;
     static double counter;
