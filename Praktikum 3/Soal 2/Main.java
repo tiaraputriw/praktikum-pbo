@@ -16,6 +16,7 @@ public class Main {
             A.beliObat(f);
             A.beliObat(d);
             A.beliObat(e);
+            System.out.println("Jumlah Obat dalam keranjang: " + A.getJumlahObat());
         } catch (BatasObatPenuhException bope) {
             System.out.println("Mohon maaf " + bope.getMessage());
         } catch (ObatTidakTersediaException otte) {
