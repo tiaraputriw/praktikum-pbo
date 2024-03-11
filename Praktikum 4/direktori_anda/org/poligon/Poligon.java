@@ -1,6 +1,6 @@
 /**
- * File : Poligon.java 02/04/2024
- * Penulis : Panji Wisnu Wirawan
+ * File : Poligon.java 03/11/2024
+ * Penulis : Tiara Putri Wibowo
  * Deskripsi : representasi dasar dari objek poligon (segi banyak)
  */
 
